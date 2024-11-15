@@ -7,7 +7,7 @@ git init
 - Referencia del repositorio local con el repositorio remoto
 (GITHUB)
 ````
-git remote add origin https://github.com/Jimmy0016/Backend_clases_lunes.git
+git remote add origin https://github.com/Jimmy0016/clase9.git
 
 # Validar referencia 
 ````
